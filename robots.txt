@@ -1,0 +1,33 @@
+# robots.txt for Juhi Kamle Portfolio
+User-agent: *
+Allow: /
+
+# Explicit rules for AI Search Engines & Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemaps and LLM documentation
+Sitemap: https://juhikamle.design/sitemap.xml
+# LLM indexing specification
+# See /llms.txt and /llms-full.txt for machine-readable portfolio summaries

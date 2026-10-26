@@ -1,0 +1,60 @@
+# Juhi Kamle — Product Designer
+
+> Product Designer specializing in B2B enterprise dashboards, customer portals, and AI agent workflows in logistics — plus mobile apps and high-converting websites. With a Computer Engineering degree and front-end coding skills, she builds developer-ready, high-converting digital products. Based in Rajkot, Gujarat, India; open to global full-time Product Designer / Senior UI/UX Designer roles.
+
+## Quick Facts
+- **Name:** Juhi Kamle
+- **Current Role:** Web & UI/UX Designer at Logistic Infotech Pvt Ltd (2023 – Present)
+- **Previous Role:** UI/UX Designer at Zindex Solutions (2022 – 2023)
+- **Experience:** 4+ years (60+ websites, 10+ mobile apps, 4+ enterprise dashboards, 15+ email newsletters)
+- **Specialization:** B2B SaaS, Logistics UX, Enterprise Quoting & Admin Panels, AI Agent Interfaces (Human-in-the-Loop UX), Design Systems.
+- **AI-Assisted Workflow:** Uses Claude AI + Figma MCP (Model Context Protocol) to prototype 40% faster from brief to clickable prototype.
+- **Education:** Bachelor of Engineering in Computer Engineering (2018–2022), B.H. Gardi College of Engineering & Technology, Rajkot.
+- **Location:** Rajkot, Gujarat, India (Open to Remote Worldwide)
+- **Contact Email:** juhi.kamle.116@gmail.com
+- **Phone:** +91 63538 11455
+- **Portfolio Website:** https://juhikamle.design/
+
+---
+
+## Core Competencies & Tools
+
+- **Design:** Figma, FigJam, Auto Layout, Interactive Components, Design Systems, Mobile & Web Wireframing, User Flows.
+- **AI & Prototyping:** Claude AI, Figma MCP, Interactive HTML/CSS Prototyping.
+- **Graphics:** Adobe Photoshop, Adobe Illustrator, Marketing Assets, Social Media Creatives.
+- **Front-End:** HTML5, CSS3, Tailwind CSS, Bootstrap 5, Material UI, Responsive Layouts.
+- **Engineering Familiarity:** Works closely with developers building in React.js, Next.js, and Laravel.
+
+---
+
+## Featured Case Studies
+
+### 1. Western Alliance Logistics (WAL) Admin Panel
+- **Role:** Product Designer (5 modules, 16 screens).
+- **Problem:** Scattered spreadsheets and tools caused delayed quotes and lost visibility.
+- **Solution:** Unified platform covering Quoting Hub, Orders, Carriers, Sales, and Agent Space.
+- **Key Decision:** Designed Agent Space with human-in-the-loop task supervision (Shadow, Supervised, Autopilot modes).
+- **Impact:** Unified 5 tools into 1; cut quote turnaround time by over 60%.
+
+### 2. WAL Customer Portal
+- **Role:** Product Designer (5 modules, 10 screens).
+- **Problem:** Constant phone and email requests for quotes and status updates.
+- **Solution:** Self-serve portal with instant quoting, live radar tracking, and document invoices.
+- **Key Decision:** Added "Visualize Unit" 3D freight load density preview, preventing re-quotes and weight disputes.
+- **Impact:** Reduced inbound status-check calls by 45%.
+
+### 3. Mileprix Delivery
+- **Role:** Product Designer (6 mobile app screens, 2 desktop admin screens).
+- **Problem:** Delivery drivers lacked route clarity; dispatchers lacked live order status.
+- **Solution:** Companion driver mobile app and admin dispatch dashboard sharing synchronized states.
+- **Key Decision:** Large arrival countdown timers and one-tap photo proof of delivery with condition checks.
+- **Impact:** Improved on-time drop-off rates and eliminated delivery disputes.
+
+### 4. Trace Enterprise
+- **Role:** Product Designer (B2B web app).
+- **Solution:** Live radar map categorizing shipments by urgency ("Needs Action", "Waiting", "On Track").
+
+---
+
+## Full Documentation
+- [Comprehensive Full-Text Portfolio Reference](https://juhikamle.design/llms-full.txt): Deep screen-by-screen notes, methodology, and AI Q&A reference.

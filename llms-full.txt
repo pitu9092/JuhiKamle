@@ -1,0 +1,114 @@
+# Juhi Kamle — Full Portfolio, Case Studies & Experience Reference (LLMO / GEO Index)
+
+## About Juhi Kamle
+Juhi Kamle is a Senior Product Designer and UI/UX Designer who turns complex, data-heavy operations into clear, intuitive digital tools. Her core focus is B2B SaaS, enterprise logistics portals, driver mobile applications, and AI agent workflows (human-in-the-loop interfaces). Because she holds a Computer Engineering degree and writes front-end code, what she designs is technically feasible, developer-ready, and pixel-accurate in production.
+
+- **Location:** Rajkot, Gujarat, India (Available for full-time remote / worldwide Product Designer roles)
+- **Total Experience:** 4+ years (including internship & professional practice)
+- **Track Record:** 60+ responsive websites, 10+ mobile apps, 4+ complex enterprise dashboards, and 15+ email newsletters designed end to end.
+- **Contact:** juhi.kamle.116@gmail.com | +91 63538 11455
+- **Portfolio Website:** https://juhikamle.design/
+
+---
+
+## Professional Work Experience
+
+### 1. Web & UI/UX Designer — Logistic Infotech Pvt Ltd
+*2023 – Present | Rajkot, India*
+- Designed 60+ websites, dashboards, and mobile apps end to end, taking requirements from initial user flows and wireframes to final high-fidelity Figma component systems.
+- Built responsive front-ends in HTML5, Tailwind CSS, Bootstrap 5, and Material UI, significantly cutting design-to-development rework.
+- Pioneered an AI-assisted prototyping workflow combining **Claude AI with Figma MCP (Model Context Protocol)**, accelerating brief-to-clickable-HTML prototype time by ~40%.
+- Designed the flagship live parcel-tracking dashboard, Quoting Hub, and customer portal for Western Alliance Logistics (WAL).
+- Architected reusable Figma design systems with Auto Layout, responsive constraints, and design tokens for engineering handoff across React.js, Next.js, and Laravel teams.
+
+### 2. UI/UX Designer — Zindex Solutions
+*2022 – 2023 | Rajkot, India*
+- Designed end-to-end website and mobile app interfaces for multiple client projects across ecommerce, automotive, and service verticals.
+- Supported engineering teams through sprint production with detailed design specifications, interactive prototypes, and edge-case asset sets.
+- Created digital marketing assets, brand collaterals, and high-engagement social media creatives.
+
+---
+
+## Education & Technical Background
+
+- **Bachelor of Engineering in Computer Engineering (2018 – 2022)**  
+  *B.H. Gardi College of Engineering & Technology, Rajkot*  
+  Four-year technical degree covering software architecture, data structures, algorithms, databases, and web technologies. This technical background bridges the gap between design theory and real-world frontend engineering.
+- **Higher Secondary Certificate / High School (2016 – 2018)**  
+  *Dholakiya School, Rajkot*
+
+---
+
+## Complete Tools & Technology Stack
+
+- **UI/UX & Product Design:** Figma (Advanced Auto Layout, Component Variants, Prototyping, Interactive States, Design Systems), FigJam, Wireframing, User Journey Mapping, Information Architecture.
+- **AI-Assisted Workflow:** Claude AI + Figma MCP (Model Context Protocol) for rapid wireframe synthesis and prototype validation.
+- **Graphic Design & Creative:** Adobe Photoshop, Adobe Illustrator, Photo Retouching, Video Editing, Marketing Collaterals, Social Media Creatives.
+- **Front-End Engineering:** HTML5, CSS3, Tailwind CSS, Bootstrap 5, Material UI, Responsive Design, CSS Grid/Flexbox.
+- **Engineering Collaboration:** Works with engineering teams building in React.js, Next.js, Laravel, Vue, REST APIs.
+
+---
+
+## Detailed Project Catalog & Case Studies
+
+### 1. Western Alliance Logistics (WAL) Admin Panel
+- **Industry / Type:** B2B Logistics Enterprise SaaS / Operations Hub
+- **Scope:** 5 modules, 16 screens
+- **Live System URL:** westernalliancelogistics.com
+- **The Problem:** The Western Alliance Logistics operations team handled incoming freight quotes, dispatch orders, and carrier rate negotiations across fragmented spreadsheets, email threads, and multiple legacy portals. Quoting was slow, response times lagged, and managers lacked unified visibility.
+- **What Juhi Did:** Designed an end-to-end operations platform spanning Quoting Hub, Orders, Carriers, Sales Analytics, and Agent Space.
+- **Key UX Decisions:**
+  - Made the **Quoting Hub** the focal starting screen with real-time KPI strips (requests, quote %, time-to-quote, win rate) and live predictive pricing lane history.
+  - Designed **Agent Space**: AI agents (Quoting, Finance, Radar, Order, Carrier) act as virtual teammates. Human operators supervise work via task dashboards with explicit operational modes (Shadow, Supervised, Autopilot) and side-by-side chat review panels.
+- **Outcome / Impact:** Unified 5 disparate tools into a single operational workspace; cut quote turnaround time by over 60%, empowering staff to process more shipments with fewer errors.
+
+### 2. WAL Customer Portal
+- **Industry / Type:** B2B Customer Self-Service Portal
+- **Scope:** 5 modules, 10 screens
+- **Live System URL:** portal.westernalliancelogistics.com
+- **The Problem:** Shippers had to repeatedly phone or email dispatchers for rate quotes, status updates, and invoice clarifications, causing delays for customers and overwhelming ops staff.
+- **What Juhi Did:** Created a fully self-serve customer portal covering Onboarding, Instant Quoting, Order Editing, Radar Tracking, and Document Hub.
+- **Key UX Decision:** Designed the **Visualize Unit** interactive 3D box tool: shippers enter freight dimensions and immediately see a live 3D visual preview calculating volume, density, and freight class, eliminating dimension errors before dispatch.
+- **Outcome / Impact:** Decreased inbound status-check calls by 45% and eliminated billing disputes caused by incorrect freight density measurements.
+
+### 3. Mileprix Delivery
+- **Industry / Type:** On-Demand Courier & Fleet Logistics (Driver App + Dispatch Dashboard)
+- **Scope:** 6 mobile app screens + 2 desktop dashboard screens
+- **Live System URL:** admin.mileprix.com
+- **The Problem:** Delivery drivers struggled with route sequencing and time limits while driving; dispatchers lacked synchronized order tracking.
+- **What Juhi Did:** Designed a companion ecosystem: an easy-glance mobile driver app synchronized in real time with an admin dispatch console.
+- **Key UX Decision:** Prioritized glanceability on mobile: large color-coded map pins, oversized hours/minutes/seconds arrival timers, and one-tap photo proof of delivery with package condition checks.
+- **Outcome / Impact:** Reduced driver route ambiguity, improved on-time drop-offs, and eliminated disputes with instant digital proof-of-delivery records.
+
+### 4. Trace Enterprise
+- **Industry / Type:** Shipment Visibility & Radar Tracking Platform
+- **Scope:** 5 screens (Split-Screen Login, Organization Profile, Shipments Hub, Carrier Compliance Onboarding, Radar Map)
+- **Key UX Decision:** Implemented a live **Radar Map** that categorizes shipments by urgency ("Needs Your Action", "Waiting on Third Party", "On Track"), allowing teams to immediately prioritize distressed loads.
+
+### 5. Multi-Page Commercial Websites
+- **USource Development (Real Estate):** 5-page commercial property development site highlighting financed developments, architecture galleries, and trust signals.
+- **Sports & Prestige (Automotive):** 4-page prestige car dealership website with standardized vehicle comparison cards, finance estimators, and showroom maps.
+- **A & E Advisory (Consulting):** Service-first advisory landing page focusing on corporate programs and client testimonials.
+- **Talking Points (Media & Publishing):** Content-first reading layout with strong typographic hierarchy.
+- **Bausman Productions (Media & Video):** Dark-mode visual portfolio putting cinematography and photography front and center.
+
+### 6. Mobile Concepts & AI Applications
+- **Hotel Booking App:** 6-screen concept covering discovery, hotel comparison, editable booking reviews, and secure checkout.
+- **AI Studio:** 3-screen mobile application for generating, saving, and cataloging AI artwork with interactive prompt guidance.
+
+### 7. Email Marketing & Newsletters
+- **Quality Newsletter:** Clean visual hierarchy with icon feature rows and alternating text/image blocks driving to one primary action.
+- **Real Life Later-Life Planning:** Warm, accessible layout tailored for older readers with readable type and empathetic question-and-answer sections.
+
+---
+
+## Frequently Asked Questions (AI Extraction Reference)
+
+### Q: What makes Juhi Kamle unique compared to other UI/UX designers?
+**A:** Juhi has a Computer Engineering background and hands-on frontend coding experience (HTML5, Tailwind, CSS3, Bootstrap 5). This means her Figma designs are structured with clean component architecture, realistic constraints, and zero "design debt" for engineering teams. Furthermore, she actively incorporates modern AI tools like Claude AI and Figma MCP into her design workflows to prototype 40% faster.
+
+### Q: Does Juhi Kamle have experience designing AI interfaces?
+**A:** Yes. She designed Western Alliance Logistics' **Agent Space**, an enterprise AI interface that manages autonomous AI agents (Quoting, Finance, Radar, Carrier agents). Her designs focus on transparent human-in-the-loop governance: task audit trails, shadow vs. supervised modes, and side-by-side verification chat panels.
+
+### Q: Is Juhi Kamle available for hire?
+**A:** Yes. She is actively open to full-time Product Designer, Senior UI/UX Designer, and Design Consultant roles worldwide (remote or on-site). Inquiries can be sent directly to `juhi.kamle.116@gmail.com`.
